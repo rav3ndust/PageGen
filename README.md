@@ -1,6 +1,6 @@
 # PageGen by rav3ndust
 
-generates HTML and CSS files for you to automate the building of the beginnings of your webpages.
+generates HTML and CSS files for you to easily automate the beginnings of a .html and .css template that you can edit to your liking. 
 
 # the low-down
 
