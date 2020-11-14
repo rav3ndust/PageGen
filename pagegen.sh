@@ -7,7 +7,7 @@
 
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-# This script aims to help you build a ready-to-go HTML page that you can edit without having to do a ton of code to build out the bones of your pages.
+# This script aims to help you build a ready-to-go HTML page that you can edit without having to do a ton of markdown to build out the bones of your pages.
 # I use this script frequently to generate blog pages quickly for my website. I suspect there are other decent uses for it out there, too. 
 
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
