@@ -13,7 +13,7 @@
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # first we start up the script
-notify-send -u critical "Welcome to PageGen!" "Let's start building your page now."
+notify-send "Welcome to PageGen!" "Let's start building your page now."
 echo "PageGen v1.0"
 
 #next, we create a www folder for this project in the user's home directory 
@@ -88,7 +88,7 @@ echo "</html>" >> gen.html
 
 # now we can notify the user that the script has finished
 echo "Your file is done. Don't forget to rename it and add in your content!"
-notify-send -u critical "Pages Generated." "Your HTML and CSS files have been created."
+notify-send "Pages Generated." "Your HTML and CSS files have been created."
 
 # now we can navigate back to the home directory and display the files on the terminal
 cd && cd www && ls
